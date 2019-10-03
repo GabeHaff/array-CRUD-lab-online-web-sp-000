@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array=["taco,pico"]
-  element= "arrays"
+  element= "arrays!"
   array.push(element)
 end
 
